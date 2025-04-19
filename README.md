@@ -3,6 +3,16 @@
 A simple and user-friendly **To-Do List application** built using **Java Swing**.  
 This project helps users **add, delete, and manage their daily tasks** with a GUI-based interface.
 
+## 📷 Screenshots
+
+**Main Interface**
+
+![To-Do List Screenshot 1](screenshot1.png)
+
+**After Adding Tasks**
+
+![To-Do List Screenshot 2](screenshot2.png)
+
 ## 🛠 Features
 
 - Add new tasks
